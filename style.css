@@ -1,0 +1,38 @@
+body{
+    background-color: black;
+   
+}
+
+
+.main{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: black;
+
+}
+
+
+h3{
+    text-align: center;
+    font-size: xx-large;
+    font-family:'Courier New', Courier, monospace;
+    color: whitesmoke;
+}
+
+
+h1{
+    margin-bottom: 100px;
+    color: white;;
+    text-align: center;
+}
+a{
+    opacity: 0.4;
+}
+a:hover{
+opacity: 1;
+}
+
+img:hover{
+    height: 250px;
+    width: 350px;
+}
